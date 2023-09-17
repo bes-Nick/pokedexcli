@@ -61,7 +61,7 @@ func getCommands() map[string]cliCommand {
 		},
 		// showing for previous page
 		"mapb": {
-			name:        "map",
+			name:        "mapb",
 			description: "Lists the previous page of location areas",
 			callback:    callbackMapb,
 		},
